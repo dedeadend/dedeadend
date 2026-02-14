@@ -6,21 +6,15 @@
 
 ###
 
-<h1 align="left">Hi👋 I'm Ehsan Nasiri</h1>
+<h1 align="center">Hi👋 I'm Ehsan Nasiri</h1>
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://media1.tenor.com/m/DyPejwJyUEUAAAAd/anime.gif"  />
+<h3 align="center">Software Engineer</h3>
 
 ###
 
-<h3 align="left">Software Engineer</h3>
-
-###
-
-<p align="left">Just a s1mple Android developer💚</p>
+<p align="center">Just a s1mple Android developer💚</p>
 
 ###
 
@@ -56,6 +50,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="150" src="https://media1.tenor.com/m/DyPejwJyUEUAAAAd/anime.gif"  />
+
+###
+
 <p align="left"></p>
 
 ###
@@ -75,7 +75,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dedeadend&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=dedeadend&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
