@@ -32,7 +32,7 @@ I'm a software developer passionate about building great applications and learni
 ## 📫 How to Reach Me
 
 - GitHub: [@dedeadend](https://github.com/dedeadend)
-- Email: test@example.com
+- Email: your.email@example.com *(placeholder)*
 
 ## ⚡ Fun Fact
 
