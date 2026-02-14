@@ -14,8 +14,6 @@
 
 ###
 
-<br clear="both">
-
 <h5 align="center">💚Just a s1mple Android developer💚</h5>
 
 ###
