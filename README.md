@@ -72,12 +72,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://count.getloli.com/@:dedeadend?theme=booru-yuyuyui&padding=6&offset=0&scale=1&align=center&pixelated=0&darkmode=auto"  />
-</div>
-
-###
-
 <br clear="both">
 
 <div align="center">
@@ -86,8 +80,8 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&fontSize=40&fontColor=06402B&fontAlign=50&fontAlignY=50&stroke=ffffff&strokeWidth=1&descSize=10&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+<div align="center">
+  <img src="https://count.getloli.com/@:dedeadend?theme=booru-yuyuyui&padding=6&offset=0&scale=1&align=center&pixelated=0&darkmode=auto"  />
 </div>
 
 ###
