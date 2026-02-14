@@ -74,7 +74,7 @@
 
 <h6 align="left">🍵 Donation</h6>
 
-<a href="https://nowpayments.io/donation?api_key=6a21c941-d72b-4933-8fd9-43e554baba93" target="_blank" rel="noreferrer noopener">
+<a href="https://nowpayments.io/donation/dedeadend" target="_blank" rel="noreferrer noopener">
    <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" height="50" alt="Crypto donation button by NOWPayments">
 </a>
 
