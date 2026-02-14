@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=40&fontColor=eeeeee&fontAlign=50&fontAlignY=35&stroke=-&strokeWidth=0&descSize=10&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&fontSize=40&fontColor=eeeeee&fontAlign=50&fontAlignY=35&stroke=-&strokeWidth=0&descSize=10&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://media1.tenor.com/m/DyPejwJyUEUAAAAd/anime.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/DyPejwJyUEUAAAAd/anime.gif"  />
 
 ###
 
@@ -23,6 +23,8 @@
 <p align="left">Just a s1mple Android developer💚</p>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
@@ -54,30 +56,32 @@
 
 ###
 
-<br clear="both">
+<p align="left"></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dedeadend/dedeadend/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dedeadend/dedeadend/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dedeadend/dedeadend/output/pacman-contribution-graph.svg">
-</picture>
+###
+
+<h6 align="left">📫 You can find me at:</h6>
 
 ###
 
 <div align="left">
   <a href="https://t.me/dedeadend" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
   </a>
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/dedeadend/dedeadend/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://count.getloli.com/@:dedeadend?theme=booru-yuyuyui&padding=6&offset=0&scale=1&align=center&pixelated=0&darkmode=auto"  />
+</div>
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dedeadend.dedeadend&"  />
+  <img src="https://streak-stats.demolab.com?user=dedeadend&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
