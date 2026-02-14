@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Test User 👋
 
-<!--
-**dedeadend/dedeadend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a software developer passionate about building great applications and learning new technologies. This is my test profile README to showcase my GitHub presence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Languages:** Python, JavaScript, TypeScript, Java
+- **Frontend:** React, Vue.js, HTML/CSS
+- **Backend:** Node.js, Express, Django
+- **Databases:** PostgreSQL, MongoDB, Redis
+- **DevOps:** Docker, Kubernetes, CI/CD
+- **Tools:** Git, VS Code, Linux
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dedeadend&show_icons=true&theme=radical)
+
+## 🔭 Current Projects
+
+- Working on test applications and proof of concepts
+- Contributing to open source projects
+- Learning cloud-native technologies
+
+## 🌱 Learning
+
+- Advanced Kubernetes patterns
+- System design and architecture
+- Cloud security best practices
+
+## 📫 How to Reach Me
+
+- GitHub: [@dedeadend](https://github.com/dedeadend)
+- Email: test@example.com
+
+## ⚡ Fun Fact
+
+I love solving complex problems and building things that make people's lives easier!
+
+---
+
+*This is a test profile README for demonstration purposes.*
