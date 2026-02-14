@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Hi👋 I'm Ehsan Nasiri</h1>
+<h1 align="center">Hi👋 I'm Ehsan</h1>
 
 ###
 
@@ -14,11 +14,19 @@
 
 ###
 
-<p align="center">Just a s1mple Android developer💚</p>
+<br clear="both">
+
+<h5 align="center">💚Just a s1mple Android developer💚</h5>
 
 ###
 
-<br clear="both">
+<img align="right" height="150" src="https://media1.tenor.com/m/DyPejwJyUEUAAAAd/anime.gif"  />
+
+###
+
+<h6 align="left">⚙️ Tech Stack</h6>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
@@ -52,15 +60,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media1.tenor.com/m/DyPejwJyUEUAAAAd/anime.gif"  />
-
-###
-
-<p align="left"></p>
-
-###
-
-<h6 align="left">📫 You can find me at:</h6>
+<h6 align="left">📫 You can find me at</h6>
 
 ###
 
@@ -75,6 +75,7 @@
 <br clear="both">
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dedeadend&locale=en&hide_title=true&layout=default%20&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=dedeadend&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
