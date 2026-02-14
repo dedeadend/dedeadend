@@ -24,7 +24,7 @@
 
 ###
 
-<h6 align="left">⚙️ Tech Stack</h6>
+<h6 align="left">💻 Tech Stack</h6>
 
 ###
 
@@ -62,7 +62,7 @@
 
 <h6 align="left">📫 You can find me at</h6>
 
-###
+
 
 <div align="left">
   <a href="https://t.me/dedeadend" target="_blank">
@@ -74,9 +74,18 @@
 
 <br clear="both">
 
+<h6 align="left">🍵 Donation</h6>
+
+<a href="https://nowpayments.io/donation?api_key=6a21c941-d72b-4933-8fd9-43e554baba93" target="_blank" rel="noreferrer noopener">
+   <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" height="50" alt="Crypto donation button by NOWPayments">
+</a>
+
+###
+
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dedeadend&locale=en&hide_title=true&layout=default%20&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=dedeadend&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=dedeadend&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -86,6 +95,3 @@
 </div>
 
 ###
-
-[![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
-
