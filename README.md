@@ -14,15 +14,19 @@
 
 ###
 
+<br clear="both">
+
 <h5 align="center">💚Just a s1mple Android developer💚</h5>
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/DyPejwJyUEUAAAAd/anime.gif"  />
+<br clear="both">
+
+<h6 align="left">💻 Tech Stack</h6>
 
 ###
 
-<h6 align="left">💻 Tech Stack</h6>
+<img align="right" height="150" src="https://media1.tenor.com/m/DyPejwJyUEUAAAAd/anime.gif"  />
 
 ###
 
@@ -60,7 +64,7 @@
 
 <h6 align="left">📫 You can find me at</h6>
 
-
+###
 
 <div align="left">
   <a href="https://t.me/dedeadend" target="_blank">
@@ -75,7 +79,7 @@
 <h6 align="left">🍵 Donation</h6>
 
 <a href="https://nowpayments.io/donation/dedeadend" target="_blank" rel="noreferrer noopener">
-   <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" height="50" alt="Crypto donation button by NOWPayments">
+   <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" height="35" alt="Crypto donation button by NOWPayments">
 </a>
 
 ###
