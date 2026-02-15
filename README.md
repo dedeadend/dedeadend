@@ -20,7 +20,7 @@
 
 <br clear="both">
 
-<h5 align="left">💻 Tech Stack</h5>
+<h4 align="left">💻 Tech Stack</h4>
 
 ###
 
@@ -60,7 +60,7 @@
 
 <br clear="both">
 
-<h5 align="left">📫 You can find me at</h5>
+<h4 align="left">📫 You can find me at</h4>
 
 ###
 
@@ -74,7 +74,7 @@
 
 <br clear="both">
 
-<h5 align="left">🍵 Donation</h5>
+<h4 align="left">🍵 Donation</h4>
 
 <a href="https://nowpayments.io/donation/dedeadend" target="_blank" rel="noreferrer noopener">
    <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" height="35" alt="Crypto donation button by NOWPayments">
