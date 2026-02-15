@@ -14,15 +14,13 @@
 
 ###
 
-<br clear="both">
-
 <h5 align="center">💚Just a s1mple Android developer💚</h5>
 
 ###
 
 <br clear="both">
 
-<h6 align="left">💻 Tech Stack</h6>
+<h5 align="left">💻 Tech Stack</h5>
 
 ###
 
@@ -62,7 +60,7 @@
 
 <br clear="both">
 
-<h6 align="left">📫 You can find me at</h6>
+<h5 align="left">📫 You can find me at</h5>
 
 ###
 
@@ -76,7 +74,7 @@
 
 <br clear="both">
 
-<h6 align="left">🍵 Donation</h6>
+<h5 align="left">🍵 Donation</h5>
 
 <a href="https://nowpayments.io/donation/dedeadend" target="_blank" rel="noreferrer noopener">
    <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" height="35" alt="Crypto donation button by NOWPayments">
