@@ -74,9 +74,11 @@
 
 <h4 align="left">🍵 Donation</h4>
 
-<a href="https://nowpayments.io/donation/dedeadend" target="_blank" rel="noreferrer noopener">
-   <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" height="35" alt="Crypto donation button by NOWPayments">
-</a>
+<div align="left">
+  <a href="https://nowpayments.io/donation/dedeadend" target="_blank" rel="noreferrer noopener">
+     <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" height="35" alt="Crypto donation button by NOWPayments">
+  </a>
+</div>
 
 ###
 
