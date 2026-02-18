@@ -91,7 +91,7 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:dedeadend?theme=booru-yuyuyui&padding=6&offset=0&scale=1&align=center&pixelated=0&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:dedeadend?theme=booru-yuyuyui&padding=5&offset=0&scale=1&align=center&pixelated=0&darkmode=auto"  />
 </div>
 
 ###
