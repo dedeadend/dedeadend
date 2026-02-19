@@ -28,33 +28,61 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="30" alt="jetpackcompose logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="30" alt="gradle logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_3-757575?style=for-the-badge&logo=material-design&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_NDK-323330?style=for-the-badge&logo=android&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MVVM-gray?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coroutines-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flow-005C97?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dagger_Hilt-DA2121?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Room_DB-3DDC84?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kernel_Tuning-black?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Low_Latency_Optimization-00BCD4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power_Management-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Root_Access-su-orange?style=for-the-badge" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Geofencing-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Context--Aware_Programming-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Telephony_Automation-FF5722?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location_Services-red?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Background_Work-3DDC84?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Telephony_API-blue?style=for-the-badge" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Deep_Learning_(GAN)-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer_Vision-0052FF?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Enterprise_App_Customization-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/B2B_Solutions-gray?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
 ###
 
