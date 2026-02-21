@@ -20,11 +20,10 @@
 
 <br clear="both">
 
-<h4 align="left">💻 Tech Stack</h4>
-
-###
-
-<img align="right" height="150" src="https://media1.tenor.com/m/DyPejwJyUEUAAAAd/anime.gif"  />
+<h4 align="left">
+  <img align="right" height="150" src="https://media1.tenor.com/m/DyPejwJyUEUAAAAd/anime.gif"  />
+  💻 Tech Stack
+</h4>
 
 ###
 
