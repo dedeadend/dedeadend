@@ -38,12 +38,9 @@
 
 <p align="left">
 <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Android_NDK-073042?style=for-the-badge&logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" />
 <img src="https://img.shields.io/badge/Material_3-757575?style=for-the-badge&logo=material-design&logoColor=white" />
-<img src="https://img.shields.io/badge/Android_NDK-073042?style=for-the-badge&logo=android&logoColor=white" />
-</p>
-
-<p align="left">
 <img src="https://img.shields.io/badge/Clean_Architecture-2C3E50?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MVVM-34495E?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Coroutines-3D3D3D?style=for-the-badge" />
@@ -77,10 +74,10 @@
 <p align="left">
 <img src="https://img.shields.io/badge/Enterprise_Customization-455A64?style=for-the-badge" />
 <img src="https://img.shields.io/badge/B2B_Solutions-546E7A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 </p>
 
 ###
