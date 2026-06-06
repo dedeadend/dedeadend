@@ -107,14 +107,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=dedeadend&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://count.getloli.com/@:dedeadend?theme=booru-yuyuyui&padding=5&offset=0&scale=1&align=center&pixelated=0&darkmode=auto"  />
 </div>
