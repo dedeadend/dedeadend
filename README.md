@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Hi👋 I'm Ehsan</h1>
+<h1 align="center">Hi 👋 I'm Ehsan</h1>
 
 ###
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">
   <img align="right" width="150" src="https://media1.tenor.com/m/DyPejwJyUEUAAAAd/anime.gif"  />
-  💻 Tech Stack
+  🫧 Tech Stack
 </h3>
 
 ###
