@@ -20,84 +20,82 @@
 
 <br clear="both">
 
-<h4 align="left">
+<h3 align="left">
   <img align="right" height="150" src="https://media1.tenor.com/m/DyPejwJyUEUAAAAd/anime.gif"  />
   💻 Tech Stack
-</h4>
+</h3>
 
 ###
 
-<p align="left">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
+#### Programming Languages
 
-<p align="left">
-<img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Android_NDK-073042?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" />
-<img src="https://img.shields.io/badge/Material_3-757575?style=for-the-badge&logo=material-design&logoColor=white" />
-<img src="https://img.shields.io/badge/Clean_Architecture-2C3E50?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MVVM-34495E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Coroutines-3D3D3D?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Flow-2980B9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Dagger_Hilt-DA2121?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Room_DB-445355?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-<p align="left">
-<img src="https://img.shields.io/badge/Kernel_Tuning-000000?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Low_Latency_Optimization-00838F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Power_Management-1B5E20?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Root_Access-FF6F00?style=for-the-badge" />
-</p>
+#### Android Development
 
-<p align="left">
-<img src="https://img.shields.io/badge/Geofencing-D32F2F?style=for-the-badge&logo=google-maps&logoColor=white" />
-<img src="https://img.shields.io/badge/Context--Aware_Programming-263238?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Telephony_Automation-E65100?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Location_Services-C62828?style=for-the-badge&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/badge/Background_Work-2E7D32?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Telephony_API-1565C0?style=for-the-badge" />
-</p>
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white)
+![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Android NDK](https://img.shields.io/badge/Android_NDK-073042?style=flat-square&logo=android&logoColor=white)
+![Material 3](https://img.shields.io/badge/Material_3-757575?style=flat-square&logo=material-design&logoColor=white)
+![Custom View](https://img.shields.io/badge/Custom_View-6200EE?style=flat-square&logo=android&logoColor=white)
+![Background Work](https://img.shields.io/badge/Background_Work-2E7D32?style=flat-square)
+![Geofencing](https://img.shields.io/badge/Geofencing-D32F2F?style=flat-square&logo=google-maps&logoColor=white)
+![Location Services](https://img.shields.io/badge/Location_Services-C62828?style=flat-square&logo=googlemaps&logoColor=white)
+![Telephony Automation](https://img.shields.io/badge/Telephony_Automation-E65100?style=flat-square)
 
-<p align="left">
-<img src="https://img.shields.io/badge/Deep_Learning_(GAN)-121212?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Computer_Vision-0052FF?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch/TensorFlow-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
+#### Architecture & Concurrency
 
-<p align="left">
-<img src="https://img.shields.io/badge/Enterprise_Customization-455A64?style=for-the-badge" />
-<img src="https://img.shields.io/badge/B2B_Solutions-546E7A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-</p>
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2C3E50?style=flat-square)
+![MVVM](https://img.shields.io/badge/MVVM-34495E?style=flat-square)
+![Hilt](https://img.shields.io/badge/Hilt-DA2121?style=flat-square&logo=google&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Coroutines-3D3D3D?style=flat-square)
+![Multithreading](https://img.shields.io/badge/Multithreading-1A1A2E?style=flat-square)
+![Flow](https://img.shields.io/badge/Flow-2980B9?style=flat-square)
+
+#### Data & Tools
+
+![Room Database](https://img.shields.io/badge/Room_DB-445355?style=flat-square&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat-square)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=xml&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+
+#### System Development & Performance
+
+![Root Programming](https://img.shields.io/badge/Root_Programming-FF6F00?style=flat-square)
+![Root Module Development](https://img.shields.io/badge/Root_Module_Dev-FF5722?style=flat-square)
+![Kernel Tuning](https://img.shields.io/badge/Kernel_Tuning-000000?style=flat-square&logo=linux&logoColor=white)
+![Power Management](https://img.shields.io/badge/Power_Management-1B5E20?style=flat-square)
+![Low Latency](https://img.shields.io/badge/Low_Latency-00838F?style=flat-square)
+![Enterprise Customization](https://img.shields.io/badge/Enterprise_Customization-455A64?style=flat-square)
+![B2B Solution](https://img.shields.io/badge/B2B_Solution-546E7A?style=flat-square)
 
 ###
 
 <br clear="both">
 
-<h4 align="left">📫 You can find me at</h4>
+### 📫 You can find me at
 
 <div align="left">
   <a href="https://t.me/dedeadend" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/dedeadend" target="_blank">
+  <!-- <a href="https://www.linkedin.com/in/dedeadend" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
+  </a> -->
 </div>
 
 ###
 
 <br clear="both">
 
-<h4 align="left">🍵 Donation</h4>
+### 🍵 Donation
 
 <div align="left">
   <a href="https://nowpayments.io/donation/dedeadend" target="_blank" rel="noreferrer noopener">
@@ -110,5 +108,3 @@
 <div align="center">
   <img src="https://count.getloli.com/@:dedeadend?theme=booru-yuyuyui&padding=5&offset=0&scale=1&align=center&pixelated=0&darkmode=auto"  />
 </div>
-
-###
