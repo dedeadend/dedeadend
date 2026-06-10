@@ -29,48 +29,48 @@
 
 #### Programming Languages
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square)
 
 #### Android Development
 
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white)
-![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Android NDK](https://img.shields.io/badge/Android_NDK-073042?style=flat-square&logo=android&logoColor=white)
-![Material 3](https://img.shields.io/badge/Material_3-757575?style=flat-square&logo=material-design&logoColor=white)
-![Custom View](https://img.shields.io/badge/Custom_View-6200EE?style=flat-square&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square)
+![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square)
+![Android NDK](https://img.shields.io/badge/Android_NDK-073042?style=flat-square)
+![Material 3](https://img.shields.io/badge/Material_3-757575?style=flat-square)
+![Custom View](https://img.shields.io/badge/Custom_View-6200EE?style=flat-square)
 ![Background Work](https://img.shields.io/badge/Background_Work-2E7D32?style=flat-square)
-![Geofencing](https://img.shields.io/badge/Geofencing-D32F2F?style=flat-square&logo=google-maps&logoColor=white)
-![Location Services](https://img.shields.io/badge/Location_Services-C62828?style=flat-square&logo=googlemaps&logoColor=white)
+![Geofencing](https://img.shields.io/badge/Geofencing-D32F2F?style=flat-square)
+![Location Services](https://img.shields.io/badge/Location_Services-C62828?style=flat-square)
 ![Telephony Automation](https://img.shields.io/badge/Telephony_Automation-E65100?style=flat-square)
 
 #### Architecture & Concurrency
 
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2C3E50?style=flat-square)
 ![MVVM](https://img.shields.io/badge/MVVM-34495E?style=flat-square)
-![Hilt](https://img.shields.io/badge/Hilt-DA2121?style=flat-square&logo=google&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-DA2121?style=flat-square)
 ![Coroutines](https://img.shields.io/badge/Coroutines-3D3D3D?style=flat-square)
 ![Multithreading](https://img.shields.io/badge/Multithreading-1A1A2E?style=flat-square)
 ![Flow](https://img.shields.io/badge/Flow-2980B9?style=flat-square)
 
 #### Data & Tools
 
-![Room Database](https://img.shields.io/badge/Room_DB-445355?style=flat-square&logo=sqlite&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Room Database](https://img.shields.io/badge/Room_DB-445355?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square)
 ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat-square)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=xml&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square)
+![XML](https://img.shields.io/badge/XML-FF6600?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square)
 
 #### System Development & Performance
 
 ![Root Programming](https://img.shields.io/badge/Root_Programming-FF6F00?style=flat-square)
 ![Root Module Development](https://img.shields.io/badge/Root_Module_Dev-FF5722?style=flat-square)
-![Kernel Tuning](https://img.shields.io/badge/Kernel_Tuning-000000?style=flat-square&logo=linux&logoColor=white)
+![Kernel Tuning](https://img.shields.io/badge/Kernel_Tuning-000000?style=flat-square)
 ![Power Management](https://img.shields.io/badge/Power_Management-1B5E20?style=flat-square)
 ![Low Latency](https://img.shields.io/badge/Low_Latency-00838F?style=flat-square)
 ![Enterprise Customization](https://img.shields.io/badge/Enterprise_Customization-455A64?style=flat-square)
