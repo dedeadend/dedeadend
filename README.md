@@ -31,9 +31,9 @@
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square)
 
 #### Android Development
 
