@@ -37,15 +37,15 @@
 
 #### 🟢 Android Development
 
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-11AA55?style=flat-square)
-![Android SDK](https://img.shields.io/badge/Android_SDK-11AA55?style=flat-square)
-![Android NDK](https://img.shields.io/badge/Android_NDK-11AA55?style=flat-square)
-![Material 3](https://img.shields.io/badge/Material_3-11aa66?style=flat-square)
-![Custom View](https://img.shields.io/badge/Custom_View-11aa66?style=flat-square)
-![Background Work](https://img.shields.io/badge/Background_Work-11aa66?style=flat-square)
-![Geofencing](https://img.shields.io/badge/Geofencing-11aa66?style=flat-square)
-![Location Services](https://img.shields.io/badge/Location_Services-11aa66?style=flat-square)
-![Telephony Automation](https://img.shields.io/badge/Telephony_Automation-11aa66?style=flat-square)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-00AA55?style=flat-square)
+![Android SDK](https://img.shields.io/badge/Android_SDK-00AA55?style=flat-square)
+![Android NDK](https://img.shields.io/badge/Android_NDK-00AA55?style=flat-square)
+![Material 3](https://img.shields.io/badge/Material_3-00AA55?style=flat-square)
+![Custom View](https://img.shields.io/badge/Custom_View-00AA55?style=flat-square)
+![Background Work](https://img.shields.io/badge/Background_Work-00AA55?style=flat-square)
+![Geofencing](https://img.shields.io/badge/Geofencing-00AA55?style=flat-square)
+![Location Services](https://img.shields.io/badge/Location_Services-00AA55?style=flat-square)
+![Telephony Automation](https://img.shields.io/badge/Telephony_Automation-00AA55?style=flat-square)
 
 #### 🟣Architecture & Concurrency
 
