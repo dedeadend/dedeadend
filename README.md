@@ -37,9 +37,9 @@
 
 #### 🟢 Android Development
 
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-22BB66?style=flat-square)
-![Android SDK](https://img.shields.io/badge/Android_SDK-22BB66?style=flat-square)
-![Android NDK](https://img.shields.io/badge/Android_NDK-11aa66?style=flat-square)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-11AA55?style=flat-square)
+![Android SDK](https://img.shields.io/badge/Android_SDK-11AA55?style=flat-square)
+![Android NDK](https://img.shields.io/badge/Android_NDK-11AA55?style=flat-square)
 ![Material 3](https://img.shields.io/badge/Material_3-11aa66?style=flat-square)
 ![Custom View](https://img.shields.io/badge/Custom_View-11aa66?style=flat-square)
 ![Background Work](https://img.shields.io/badge/Background_Work-11aa66?style=flat-square)
