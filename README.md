@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Hi 👋 I'm Ehsan</h1>
+<h1 align="center">Hi <img src="wave.gif" width="30px"> I'm Ehsan</h1>
 
 ###
 
