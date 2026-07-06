@@ -21,7 +21,7 @@
 <br clear="both">
 
 <h3 align="left">
-  <img align="right" width="150" src="https://media1.tenor.com/m/DyPejwJyUEUAAAAd/anime.gif"  />
+  <img align="right" width="150" src="tobi.gif"  />
   🫧 Tech Stack
 </h3>
 
