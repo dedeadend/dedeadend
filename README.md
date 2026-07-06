@@ -47,14 +47,21 @@
 ![Location Services](https://img.shields.io/badge/Location_Services-00AA55?style=flat-square)
 ![Telephony Automation](https://img.shields.io/badge/Telephony_Automation-00AA55?style=flat-square)
 
-#### 🟣Architecture & Concurrency
+#### 🟣 Architecture & Concurrency
 
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-8855DD?style=flat-square)
 ![MVVM](https://img.shields.io/badge/MVVM-8855DD?style=flat-square)
+![MVI](https://img.shields.io/badge/MVI-8855DD?style=flat-square)
+![UDF](https://img.shields.io/badge/UDF-8855DD?style=flat-square)
 ![Hilt](https://img.shields.io/badge/Hilt-8855DD?style=flat-square)
-![Coroutines](https://img.shields.io/badge/Coroutines-8855DD?style=flat-square)
-![Multithreading](https://img.shields.io/badge/Multithreading-8855DD?style=flat-square)
 ![Flow](https://img.shields.io/badge/Flow-8855DD?style=flat-square)
+![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-8855DD?style=flat-square)
+![UseCase](https://img.shields.io/badge/UseCase-8855DD?style=flat-square)
+![Multithreading](https://img.shields.io/badge/Multithreading-8855DD?style=flat-square)
+![Coroutines](https://img.shields.io/badge/Coroutines-8855DD?style=flat-square)
+![Structured Concurrency](https://img.shields.io/badge/Structured_Concurrency-8855DD?style=flat-square)
+![Dispatchers](https://img.shields.io/badge/Dispatchers-8855DD?style=flat-square)
+![Jobs](https://img.shields.io/badge/Jobs-8855DD?style=flat-square)
 
 #### 🟠 Data & Tools
 
