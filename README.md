@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Hi <img src="wave.gif" width="30px"> I'm Ehsan</h1>
+<h1 align="center">Hi <img src="wave" width="30px"> I'm Ehsan</h1>
 
 ###
 
@@ -21,7 +21,7 @@
 <br clear="both">
 
 <h3 align="left">
-  <img align="right" width="150" src="tobi.gif"  />
+  <img align="right" width="150" src="tobi"  />
   🫧 Tech Stack
 </h3>
 
