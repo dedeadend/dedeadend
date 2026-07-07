@@ -1,5 +1,3 @@
-<br clear="both">
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&fontSize=40&fontColor=eeeeee&fontAlign=50&fontAlignY=35&stroke=-&strokeWidth=0&descSize=10&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
@@ -32,6 +30,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-3377DD?style=flat-square)
 ![Java](https://img.shields.io/badge/Java-3377DD?style=flat-square)
 ![Bash](https://img.shields.io/badge/Bash-3377DD?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3377DD?style=flat-square)
 ![C](https://img.shields.io/badge/C-3377DD?style=flat-square)
 ![C++](https://img.shields.io/badge/C++-3377DD?style=flat-square)
 
