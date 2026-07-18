@@ -58,8 +58,6 @@
 ![Multithreading](https://img.shields.io/badge/Multithreading-8855DD?style=flat-square)
 ![Coroutines](https://img.shields.io/badge/Coroutines-8855DD?style=flat-square)
 ![Structured Concurrency](https://img.shields.io/badge/Structured_Concurrency-8855DD?style=flat-square)
-![Dispatchers](https://img.shields.io/badge/Dispatchers-8855DD?style=flat-square)
-![Jobs](https://img.shields.io/badge/Jobs-8855DD?style=flat-square)
 
 #### 🟠 Data & Tools
 
