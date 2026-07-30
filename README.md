@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="center">🍀Just a s1mple Android developer🍀</h4>
+<h4 align="center">💚Just a s1mple Android developer💚</h4>
 
 ###
 
