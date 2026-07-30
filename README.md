@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hi <img src="wave" width="30px"> I'm Ehsan</h1>
+<h1 align="center">Hi&nbsp;<img src="wave" width="30" height="30" alt="👋">&nbsp;I'm Ehsan</h1>
 
 ###
 
