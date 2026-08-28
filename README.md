@@ -109,5 +109,5 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:dedeadend?theme=morden-num&padding=5&offset=0&scale=1&align=center&pixelated=0&darkmode=0"  />
+  <img src="https://count.getloli.com/@:dedeadend?theme=3d-num&padding=5&offset=0&scale=1&align=center&pixelated=0&darkmode=1"  />
 </div>
