@@ -6,7 +6,7 @@
 
 <h3 align="center">Software Engineer</h3>
 
-<h4 align="center">💚Just a simple Android developer💚</h4>
+<h4 align="center">Just a simple Android developer</h4>
 
 <br clear="both">
 
