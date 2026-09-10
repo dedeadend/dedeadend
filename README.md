@@ -1,20 +1,12 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&fontSize=40&fontColor=eeeeee&fontAlign=50&fontAlignY=35&stroke=-&strokeWidth=0&descSize=10&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&fontSize=40&fontColor=eeeeee&fontAlign=50&fontAlignY=35&stroke=-&strokeWidth=0&descSize=10&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
 </div>
-
-###
 
 <h1 align="center">Hi&nbsp;<img src="wave" width="30" height="30" alt="👋">&nbsp;I'm Ehsan</h1>
 
-###
-
 <h3 align="center">Software Engineer</h3>
 
-###
-
-<h4 align="center">💚Just a s1mple Android developer💚</h4>
-
-###
+<h4 align="center">💚Just a simple Android developer💚</h4>
 
 <br clear="both">
 
@@ -22,8 +14,6 @@
   <img align="right" width="150" src="tobi"  />
   🫧 Tech Stack
 </h3>
-
-###
 
 #### 🔵 Programming Languages
 
@@ -73,28 +63,25 @@
 
 ![Root Programming](https://img.shields.io/badge/Root_Programming-CC3333?style=flat-square)
 ![Root Module Development](https://img.shields.io/badge/Root_Module_Dev-CC3333?style=flat-square)
+![Shizuku](https://img.shields.io/badge/Shizuku-CC3333?style=flat-square)
 ![Kernel Tuning](https://img.shields.io/badge/Kernel_Tuning-CC3333?style=flat-square)
 ![Power Management](https://img.shields.io/badge/Power_Management-CC3333?style=flat-square)
 ![Low Latency](https://img.shields.io/badge/Low_Latency-CC3333?style=flat-square)
 ![Enterprise Customization](https://img.shields.io/badge/Enterprise_Customization-CC3333?style=flat-square)
 ![B2B Solution](https://img.shields.io/badge/B2B_Solution-CC3333?style=flat-square)
 
-###
-
 <br clear="both">
 
 ### 📫 You can find me at
 
 <div align="left">
-  <a href="https://t.me/dedeadend" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
+  <a href="https://dedeadend.github.io/" target="_blank" rel="noreferrer noopener">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=firefox&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="website" />
   </a>
-  <!-- <a href="https://www.linkedin.com/in/dedeadend" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a> -->
+  <a href="https://t.me/dedeadend" target="_blank" rel="noreferrer noopener">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram" />
+  </a>
 </div>
-
-###
 
 <br clear="both">
 
@@ -105,8 +92,6 @@
      <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" height="40" alt="Crypto donation button by NOWPayments">
   </a>
 </div>
-
-###
 
 <div align="center">
   <img src="https://count.getloli.com/@:dedeadend?name=%3Adedeadend&theme=booru-yuyuyui&padding=4&offset=0&align=center&scale=0.9&pixelated=0&darkmode=auto&prefix=0"  />
